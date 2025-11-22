@@ -17,4 +17,4 @@ Meta React Basics Calculator app final project
 
 #Note: If it does not work, I suggest looking up for possible fixes.
 
-#Note2: I know the UI and UX isn't that good, that's because the main focus of this peoject was the logic behind it: "useState".
+#Note 2: This project is mostly based on rendering the result and input variables. 
