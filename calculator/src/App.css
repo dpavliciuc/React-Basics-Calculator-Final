@@ -1,0 +1,43 @@
+* {
+    font-family: sans-serif;
+  }
+  input,
+  button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  h1,
+  form
+  {
+    margin-left: 10px;
+  }
+   .num-result {
+    font-size: 24px;
+  }
+
+  input {
+    display: block;
+    margin-bottom: 20px;
+  }
+  button {
+    border: 1px solid gray;
+    background: whitesmoke;
+    margin-right: 5px;
+  }
+  button:hover{
+    background-color: rgb(204, 204, 204);
+    cursor: pointer;
+  }
+  button:nth-last-child(2),
+  button:nth-last-child(1) {
+    background: rgb(255, 56, 21);
+    color: white;
+  }
+   button:nth-last-child(2):hover,
+  button:nth-last-child(1):hover {
+    background: rgb(255, 80, 49);
+    color: white;
+    transition: 0.2s;
+  }
